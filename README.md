@@ -158,7 +158,10 @@ namespace nlsetup
 
 ## **Nice copy and paste @MyMineBlock**
 - I don't know how you did it but you somehow made the stolen code worse?? Takes skill to do that, I'm proud.
-- On top of that it took you 3 weeks to rename code that wasn't yours and make a UI that sucks??
+- Calls me a skid repeatedly where our functionality is open source and rewritten?
+- You also attempt to ridicule my expertise off a dump that was created a month ago in V2, we're in V3.2 now were everything was re-done.
+- You then complained that we use VM methods to encrypt our code, tell me the VM we used? Cause there's only methods encryption on Vision, and if you ran Vision through a VM detector, you'd find nothing. But you're a brainless skid that doesn't have the resources to do that.
+- On top of that it took you 3 weeks to rename code that wasn't yours and make a UI that sucks?? Sad.
 
 **Only reason why I'm making this post and not leaving him alone**
 - Decided to spam distribute a zip bomb in my discord server when I don't even know this kid nor have I ever spoken to him/her.
