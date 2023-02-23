@@ -164,7 +164,7 @@ namespace nlsetup
 - On top of that it took you 3 weeks to rename code that wasn't yours and make a UI that sucks?? Sad.
 
 **Only reason why I'm making this post and not leaving him alone**
-- Decided to spam distribute a zip bomb in my discord server when I don't even know this kid nor have I ever spoken to him/her.
+- Decided to spam distribute malicious files in my discord server when I don't even know this kid nor have I ever spoken to him/her.
 
 **Speaking of your such good coding skills!**
 
