@@ -1,7 +1,7 @@
 # mineblock-shit-limiter
 <img align="right" src="https://media.tenor.com/OrSLtVr_CLYAAAAC/yandere-dev-yandere.gif)/100/100">
 
-**MyMineBlock created by ~~braaandon~~ MyMineBlock**
+**Mineblock Limiter created by ~~braaandon~~ MyMineBlock**
 
 He or She rediculing Bruce for saying he can't code.
 
