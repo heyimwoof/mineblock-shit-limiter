@@ -183,7 +183,7 @@ On top of that your release is literally the source code, do you not know what y
 **Why are you making FW rules for?**
 You're telling people to download netlimiter but then creating FW rules on their pc without them knowing?!
 How does Netlimiter and Firewall have anything to do with each other?! 
-If you wanted to limit 27k just do it through Netlimiter?? Why do you have to make a FW rule for it?
+If you wanted to limit ports just do it through Netlimiter?? Why do you have to make a FW rule for it?
 
 ## Warning, There's no code that actually removes the FW rules he creates, if bungie ever decided to scan firewall rules. All users of this would be flagged and possibly banned in a wave.
 
