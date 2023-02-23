@@ -5,7 +5,7 @@
 
 He or She rediculing Bruce for saying he can't code.
 
-Okay buddy let's take a look at **MyMineBlock**!
+Okay buddy let's take a look at **Mineblock Limiter**!
 
 ![image](https://user-images.githubusercontent.com/108382118/220800980-22f3410a-0ebf-4d41-bbf5-95422a44535b.png)
 
