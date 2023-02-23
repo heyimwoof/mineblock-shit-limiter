@@ -158,6 +158,7 @@ namespace nlsetup
 
 ## **Nice copy and paste @MyMineBlock**
 - I don't know how you did it but you somehow made the stolen code worse?? Takes skill to do that, I'm proud.
+- On top of that it took you 3 weeks to rename code that wasn't yours and make a UI that sucks??
 
 **Only reason why I'm making this post and not leaving him alone**
 - Decided to spam distribute a zip bomb in my discord server when I don't even know this kid nor have I ever spoken to him/her.
